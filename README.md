@@ -47,7 +47,11 @@
 	#### Content
 		- Neural Machine Translation (NMT)
 		- Text Summarization
+		- Question Answering
+		- ChatBot
 		
 	#### Programming Assigments
 		- NMT with Attension
 		- Transformer Summarizer
+		- Question Answering
+		- ChatBot
