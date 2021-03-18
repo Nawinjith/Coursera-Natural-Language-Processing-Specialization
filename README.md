@@ -45,4 +45,9 @@
 ### NLP with Attension Models
 
 	#### Content
-		- 
+		- Neural Machine Translation (NMT)
+		- Text Summarization
+		
+	#### Programming Assigments
+		- NMT with Attension
+		- Transformer Summarizer
